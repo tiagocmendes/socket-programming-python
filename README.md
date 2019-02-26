@@ -1,2 +1,2 @@
-# python-socket-programming
+# socket-programming-python
 Socket programming using Python
